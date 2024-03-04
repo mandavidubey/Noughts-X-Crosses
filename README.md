@@ -21,3 +21,4 @@ o **How to Play**:<br>
 
 Enjoy the classic fun of Noughts and Crosses with this simple and engaging web-based implementation!
 
+-Play here: https://crossandnought.netlify.app/
