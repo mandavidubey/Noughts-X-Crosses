@@ -35,9 +35,12 @@
     width: 18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 1rem rgba(45, 40, 198, 0.3);
     font-size: 8vmin;
     background-color: #140D4F;
+  }
+
+  .box:hover{
+    box-shadow: 0 0 1rem rgb(186, 245, 83);
   }
 
   .o{
@@ -56,6 +59,13 @@
     border-radius: 1rem;
     border: none;
   }
+
+  #reset-btn:hover{
+    background-color: #04AA6D; 
+    color: white;
+    height: 60px;
+    width: 160px;
+  }
   
   #new-btn {
     padding: 1rem;
@@ -64,6 +74,13 @@
     color: #6FEDB7;
     border-radius: 1rem;
     border: none;
+  }
+
+  #new-btn:hover{
+    background-color: #04AA6D;
+    color: white;
+    height: 60px;
+    width: 160px;
   }
   
   #msg {
