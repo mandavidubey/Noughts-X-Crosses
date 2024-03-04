@@ -4,7 +4,7 @@
 
 -This repository contains a simple implementation of the Noughts and Crosses game built using HTML, CSS, and JavaScript. Players can enjoy the timeless fun of this game directly in their web browser.
 
-o Features:
+o **Features**:
 -Clean and intuitive user interface.
 -Responsive design, suitable for desktop and mobile devices.
 -Player vs. Player gameplay mode.
@@ -12,7 +12,7 @@ o Features:
 -Option to start a new game or reset the current game.
 
 
-o How to Play:
+o **How to Play**:
 -Open the index.html file in your web browser.
 -Players take turns clicking on the empty squares to place their symbols (O or X).
 -The game ends when one player successfully forms a line of three consecutive symbols or when all squares are filled.
